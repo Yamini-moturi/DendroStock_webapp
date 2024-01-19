@@ -2,10 +2,11 @@
 - This Application is an E-commerese application for plants.
 # TWO Authorizations: 
 User:
-- - Create an account 
-- - Search for plants
-- - Per page look up setup
-- - Profile page - look up account
+- Create an account 
+- Search for plants
+- Per page look up setup
+- Profile page - look up account
+- 
 Admin:
 - Can Add plant items
 - Can remove plant items
