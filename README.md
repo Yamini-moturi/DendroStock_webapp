@@ -1,7 +1,16 @@
 # DendroStock Web Application
-- This Application is an E-commerese application for plants. 
-# DESIGN AND IMPLEMENTATION OF THE SYSTEM:
+- This Application is an E-commerese application for plants.
+# TWO Authorizations: 
+User:
+- - Create an account 
+- - Search for plants
+- - Per page look up setup
+- - Profile page - look up account
+Admin:
+- Can Add plant items
+- Can remove plant items
 
+# DESIGN AND IMPLEMENTATION OF THE SYSTEM:
 - The functionality of each Webpage:
 - Home Page: It is an initial landing page, which is connected to the login & registration page with a blog link.
 -	Plants Page: This is the main page of Plants: contains Indoor plants, outdoor plants, water plants, and bonsai Plats parts on this page.
